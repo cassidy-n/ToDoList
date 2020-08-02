@@ -32,7 +32,6 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
 Running the Android Studio emulator is the most frustrating aspect when creating the app. Settings have to be modified in order for the app to run smoothy and efficiently.
 
 ## License
